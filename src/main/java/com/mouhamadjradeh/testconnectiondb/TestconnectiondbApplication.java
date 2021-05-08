@@ -8,6 +8,6 @@ public class TestconnectiondbApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(TestconnectiondbApplication.class, args);
+        System.out.println("test github");
     }
-
 }
